@@ -40,17 +40,19 @@
     "url": "https://72f1-49-204-133-60.ngrok.io/auth/login",
     "icon": "https://favicons.githubusercontent.com/72f1-49-204-133-60.ngrok.io",
     "slug": "gallabox-login-localhost",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 421,
-    "timeWeek": 421,
-    "timeMonth": 421,
-    "timeYear": 421,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "97.88%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "97.88%",
+    "time": 1547,
+    "timeDay": 1547,
+    "timeWeek": 1547,
+    "timeMonth": 1547,
+    "timeYear": 1547,
+    "dailyMinutesDown": {
+      "2021-10-28": 0
+    }
   }
 ]
