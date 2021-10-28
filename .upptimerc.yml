@@ -16,6 +16,17 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{ "email": "mangoleaphq@gmail.com", "password": "mango" }'
+  - name: Gallabox Login Test
+    method: POST
+    url: https://server.gallabox.dev/auth/login
+    expectedStatusCodes:
+      - 200
+      - 401
+      - 500
+    maxResponseTime: 2000
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "email": "mangoleaphq@gmail.com", "password": "mangos" }'
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
