@@ -1,7 +1,7 @@
 url: https://server.gallabox.dev/auth/login
-status: down
-code: 503
-responseTime: 139
-lastUpdated: 2021-11-01T14:27:20.665Z
+status: up
+code: 200
+responseTime: 188
+lastUpdated: 2021-11-01T15:17:34.616Z
 startTime: Thu Oct 28 2021 09:13:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
