@@ -4,19 +4,19 @@
     "url": "https://app.gallabox.dev/login",
     "icon": "https://favicons.githubusercontent.com/app.gallabox.dev",
     "slug": "gallabox",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 138,
-    "timeWeek": 142,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 156,
+    "timeDay": 124,
+    "timeWeek": 136,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2021-11-13": 0
+      "2021-11-13": 17
     }
   },
   {
@@ -57,7 +57,7 @@
     "timeMonth": 424,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2021-11-13": 1388,
+      "2021-11-13": 1405,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
       "2021-11-10": 1440,
